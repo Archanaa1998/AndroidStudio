@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BasicCalculator</string>
+    <string name="txtview1">SIMPLE CALCULATOR</string>
+    <string name="txtview2">RESULT</string>
+    <string name="edittxt1">ENTER FIRST NUMBER</string>
+    <string name="edittxt2">ENTER SECOND NUMBER</string>
+    <string name="btnadd" >+</string>
+    <string name="btnminus">-</string>
+    <string name="btnmul">*</string>
+    <string name="btndiv">/</string>
+    <string name="edttxt3">ans</string>
+</resources>
